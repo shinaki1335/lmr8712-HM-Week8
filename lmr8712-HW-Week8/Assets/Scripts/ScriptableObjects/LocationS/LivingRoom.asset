@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5972f94f6ea007e41aa7bc940aea435d, type: 3}
+  m_Name: LivingRoom
+  m_EditorClassIdentifier: 
+  locationName: Living Room
+  description: A barely spend any time here.
+  northLocation: {fileID: 11400000, guid: 72e2b6bc3b61a54408eda1cde3294b41, type: 2}
+  southLocation: {fileID: 0}
+  eastLocation: {fileID: 11400000, guid: 73968b5663c97b349af8f59b4e2d4c14, type: 2}
+  westLocation: {fileID: 11400000, guid: a398961f70633da4e943ce6776265513, type: 2}

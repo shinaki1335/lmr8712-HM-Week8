@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5972f94f6ea007e41aa7bc940aea435d, type: 3}
+  m_Name: Bedroom
+  m_EditorClassIdentifier: 
+  locationName: My Bedroom
+  description: The bed looks so tempting, but I need to start working.
+  northLocation: {fileID: 11400000, guid: 66b0026fa2f2fa6418d02bf3055c1ed5, type: 2}
+  southLocation: {fileID: 11400000, guid: ee72e6325810dea4d903cb0c5c73b20c, type: 2}
+  eastLocation: {fileID: 11400000, guid: 72e2b6bc3b61a54408eda1cde3294b41, type: 2}
+  westLocation: {fileID: 0}
